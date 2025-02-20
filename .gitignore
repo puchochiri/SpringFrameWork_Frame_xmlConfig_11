@@ -31,7 +31,9 @@ out/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
+!**/bin/src/
+**/bin
+**/bin/src/**
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
